@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+div{
+    height: 100px;
+    width: 500px;
+    margin: auto;
+    border:2px solid black;
+}
+button{
+    margin: 5%;
+    background-color: black;
+    color: cyan;
+}
+button:hover{
+    background-color: aliceblue;
+    color: black;
+}
